@@ -18,6 +18,8 @@ def normalize_breed_name(name: str) -> str:
         str(name)
             .lower()
             .replace(" ", "_")
+            .replace("´", "'")
+            .replace("`", "'")
             .replace("’", "'")
             .replace("‘", "'")
             .replace("-", "_")
