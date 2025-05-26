@@ -297,22 +297,6 @@ flowchart TD
 
 ---
 
-## 🌐 Enlaces de interes
-
-<div align="center">
-
-| Recurso | Descripción |
-|:---|:---|
-| [Recommender Systems Handbook (Springer)](https://link.springer.com/book/10.1007/978-1-4899-7637-6) | Libro de referencia sobre sistemas de recomendación. |
-| [A Gentle Introduction to Recommender Systems with Implicit Feedback](https://towardsdatascience.com/a-gentle-introduction-to-recommender-systems-with-implicit-feedback-1e2b1e7a2a3b) | Artículo introductorio sobre recomendaciones con feedback implícito. |
-| [Wikipedia: Recommender System](https://en.wikipedia.org/wiki/Recommender_system) | Definición y tipos de sistemas de recomendación. |
-| [How to Evaluate Recommender Systems (Google)](https://developers.google.com/machine-learning/recommendation/evaluation) | Guía de Google sobre evaluación de sistemas de recomendación. |
-| [Precision and Recall Explained Visually](https://www.machinelearningplus.com/evaluation/precision-recall-classification/) | Explicación visual de precisión y recall en clasificación. |
-
-</div>
-
----
-
 ## 👤 Autoría
 
 <div align="center">
