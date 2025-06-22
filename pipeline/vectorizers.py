@@ -1,7 +1,5 @@
 """
-
 Pipeline para vectorizar los datos de entrada
-
 """
 
 import pandas as pd
